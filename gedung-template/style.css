@@ -1018,7 +1018,7 @@ Notes: To change the font, install it manually with convert the download zipped 
  .image-title a.button-basic-1 {
      margin-top: 20px;
      font-size: 1.3rem;
-     padding: 12px 30px;
+    padding: 10px 12px 5px 12px;
      -webkit-transition: all .1s ease-in-out;
      -o-transition: all .1s ease-in-out;
      transition: all .1s ease-in-out;
